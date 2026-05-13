@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,linux,ubuntu,bash" />
+  </a>
+</p>
 
-<!--
-**desouzaw/desouzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desouzaw&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desouzaw&layout=compact&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
